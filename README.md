@@ -12,7 +12,7 @@
 - Lớp học: CS112.N21.KHCL
 - Năm học: 2022-2023
 - Giảng viên: Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn
-# THÔNG TIN THÀNH VIÊN NHÓM 10
+# THÔNG TIN NHÓM
 | STT |   MSSV   |   Vai Trò   |      Họ và Tên      |          Email         |
 |:---:|:--------:|:-----------:|:-------------------:|:----------------------:|
 | 1   | 21522028 | Nhóm trưởng | Nguyễn Như Hà       | 21522028@gm.uit.edu.vn |
