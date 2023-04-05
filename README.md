@@ -20,5 +20,5 @@
 | 3   | 21521841 | Thành viên  | Trần Nhật Anh       | 21521841@gm.uit.edu.vn |
 
 # CHỦ ĐỀ SEMINAR
-- Phương pháp thiết kế thuật toán: Dynamic programming (2)
+*- Phương pháp thiết kế thuật toán: Dynamic programming (2)*
 - Số thứ tự: 10
