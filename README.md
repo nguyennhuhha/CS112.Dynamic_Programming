@@ -27,33 +27,33 @@
 --không nộp bài--
 ## NHÓM 2
 - Bài Palindrome: 4.5đ
-- Bài Build Bridges: 5đ
+- Bài Build Bridges: 5đ  
   **Tổng điểm: 9.5đ**
 ## NHÓM 3
 - Bài Palindrome: 4.5đ
-- Bài Build Bridges: 5đ
+- Bài Build Bridges: 5đ  
   **Tổng điểm: 9.5đ**
 ## NHÓM 4 
 --không nộp bài--
 ## NHÓM 5
 - Bài Palindrome: 4.5đ
-- Bài Build Bridges: 5đ
+- Bài Build Bridges: 5đ  
   **Tổng điểm: 9.5đ**
 ## NHÓM 6
 - Bài Palindrome: 5đ
-- Bài Build Bridges: 5đ
+- Bài Build Bridges: 5đ  
   **Tổng điểm: 10đ**
 ## NHÓM 7
 - Bài Palindrome: 5đ
-- Bài Build Bridges: 5đ
+- Bài Build Bridges: 5đ  
   **Tổng điểm: 10đ**
 ## NHÓM 8
 - Bài Palindrome: 4.5đ
-- Bài Build Bridges: 5đ
+- Bài Build Bridges: 5đ  
   **Tổng điểm: 9.5đ**
 ## NHÓM 9
 - Bài Palindrome: 4.5đ
-- Bài Build Bridges: 5đ
+- Bài Build Bridges: 5đ  
   **Tổng điểm: 9.5đ**
 ## NHÓM 10
 --không nộp bài--
@@ -61,16 +61,15 @@
 --không nộp bài--
 ## NHÓM 12
 - Bài Palindrome: 4.5đ
-- Bài Build Bridges: 5đ
+- Bài Build Bridges: 5đ  
   **Tổng điểm: 9.5đ**
 ## NHÓM 13
 - Bài Palindrome: 4.5đ
-- Bài Build Bridges: 5đ
+- Bài Build Bridges: 5đ  
   **Tổng điểm: 9.5đ**
 ## NHÓM 14
-- Bài Build Bridges: 3đ
+- Bài Build Bridges: 3đ  
   **Tổng điểm: 3đ**
 ## NHÓM 15
-- Bài Palindrome: 4.5đ
+- Bài Palindrome: 4.5đ  
   **Tổng điểm: 4.5đ**
-
